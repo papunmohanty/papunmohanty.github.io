@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papun Mohanty</title>
-    <link>https://papunmohanty.gitgub.io/</link>
+    <link>https://papunmohanty.github.io/</link>
     <description>Recent posts from on Papun Mohanty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Oct 2022 01:02:52 +0530</lastBuildDate><atom:link href="https://papunmohanty.gitgub.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Oct 2022 01:02:52 +0530</lastBuildDate><atom:link href="https://papunmohanty.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://papunmohanty.gitgub.io/post/myfirstpost/</link>
+      <link>https://papunmohanty.github.io/post/myfirstpost/</link>
       <pubDate>Tue, 18 Oct 2022 01:02:52 +0530</pubDate>
       
-      <guid>https://papunmohanty.gitgub.io/post/myfirstpost/</guid>
+      <guid>https://papunmohanty.github.io/post/myfirstpost/</guid>
       <description>&lt;h2 id=&#34;what-i-do&#34;&gt;What I do?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;I like to code!!&lt;/li&gt;
